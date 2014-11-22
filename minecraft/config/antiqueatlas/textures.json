@@ -1,4 +1,5 @@
 {
+  "34": "MOUNTAINS",
   "0": "WATER",
   "1": "PLAINS",
   "2": "SAND",
@@ -20,5 +21,6 @@
   "18": "FOREST_HILLS",
   "21": "JUNGLE",
   "20": "MOUNTAINS",
-  "22": "JUNGLE_HILLS"
+  "22": "JUNGLE_HILLS",
+  "25": "BEACH"
 }
