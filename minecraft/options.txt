@@ -91,6 +91,14 @@ key_Mode Switch Key:50
 key_Side Inventory Key:46
 key_Hub Expand Key:45
 key_invtweaks.key.sort:19
+key_key.mw_open_gui:50
+key_key.mw_new_marker:210
+key_key.mw_next_map_mode:49
+key_key.mw_next_marker_group:51
+key_key.mw_teleport:52
+key_key.mw_zoom_in:201
+key_key.mw_zoom_out:209
+key_key.mw_underground_mode:22
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
