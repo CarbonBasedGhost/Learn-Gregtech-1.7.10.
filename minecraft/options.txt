@@ -17,7 +17,7 @@ ao:2
 clouds:true
 resourcePacks:["Learn Gregtech Companion.zip"]
 lastServer:
-lang:en_IC
+lang:en_US
 chatVisibility:0
 chatColors:true
 chatLinks:true
