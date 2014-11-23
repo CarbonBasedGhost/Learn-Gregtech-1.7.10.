@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 clouds:true
-resourcePacks:["Unity-Minecraft-1.0.0.zip"]
+resourcePacks:["Learn Gregtech Companion.zip"]
 lastServer:
 lang:en_US
 chatVisibility:0
