@@ -8295,3 +8295,5 @@ IronChest -> chestWood
 GT_Mod: Beginning Load-Phase.
 GT_Mod: Load-Phase finished!
 appliedenergistics2 --Late--> itemWheat
+GT_Mod: Beginning PostLoad-Phase.
+GT_Mod: PostLoad-Phase finished!
