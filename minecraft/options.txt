@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 clouds:true
-resourcePacks:[]
+resourcePacks:["Unity-Minecraft-1.0.0.zip"]
 lastServer:
 lang:en_US
 chatVisibility:0
