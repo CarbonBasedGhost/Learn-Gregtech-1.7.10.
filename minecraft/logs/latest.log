@@ -1,2 +1,36 @@
-[17:26:53] [main/INFO]: Setting user: QubicRage
-[17:26:55] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:14:20] [main/INFO]: Setting user: CarbonBasedGhost
+[18:14:21] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:14:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCoreMod, Learn Gregtech Companion.zip
+[18:14:40] [Sound Library Loader/INFO]: Sound engine started
+[18:14:42] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[18:14:43] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
+[18:15:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCoreMod, Learn Gregtech Companion.zip
+[18:15:51] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[18:15:54] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[18:15:54] [Sound Library Loader/INFO]: Sound engine started
+[18:16:12] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[18:16:12] [Server thread/INFO]: Generating keypair
+[18:16:13] [Server thread/INFO]: Preparing start region for level 0
+[18:16:14] [Server thread/INFO]: Preparing spawn area: 85%
+[18:16:15] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:16:15] [Server thread/INFO]: CarbonBasedGhost[local:E:d4399176] logged in with entity id 273 at (473.8888172024755, 65.0, -143.91950160318066)
+[18:16:15] [Server thread/INFO]: CarbonBasedGhost joined the game
+[18:16:20] [Client thread/INFO]: [CHAT] This server doesn't have Hardcore Questing Mode enabled.
+[18:16:21] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[18:16:28] [Server thread/INFO]: Saving and pausing game...
+[18:16:29] [Server thread/INFO]: Saving chunks for level 'Please Work'/Overworld
+[18:16:29] [Server thread/INFO]: Saving chunks for level 'Please Work'/Nether
+[18:16:29] [Server thread/INFO]: Saving chunks for level 'Please Work'/The End
+[18:17:51] [Server thread/INFO]: Saving and pausing game...
+[18:17:51] [Server thread/INFO]: Saving chunks for level 'Please Work'/Overworld
+[18:17:51] [Server thread/INFO]: Saving chunks for level 'Please Work'/Nether
+[18:17:51] [Server thread/INFO]: Saving chunks for level 'Please Work'/The End
+[18:17:52] [Server thread/INFO]: Stopping server
+[18:17:52] [Server thread/INFO]: Saving players
+[18:17:52] [Server thread/INFO]: Saving worlds
+[18:17:52] [Server thread/INFO]: Saving chunks for level 'Please Work'/Overworld
+[18:17:52] [Server thread/INFO]: Saving chunks for level 'Please Work'/Nether
+[18:17:52] [Server thread/INFO]: Saving chunks for level 'Please Work'/The End
+[18:17:57] [Client thread/INFO]: Deleting level Please Work
+[18:17:57] [Client thread/INFO]: Attempt 1...
+[18:18:40] [Client thread/INFO]: Stopping!
