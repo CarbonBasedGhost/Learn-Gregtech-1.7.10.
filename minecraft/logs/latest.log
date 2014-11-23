@@ -1,15 +1,2 @@
-[16:31:58] [main/INFO]: Setting user: QubicRage
-[16:32:00] [Client thread/INFO]: LWJGL Version: 2.9.1
-[16:32:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCoreMod
-[16:32:33] [Sound Library Loader/INFO]: Sound engine started
-[16:32:35] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
-[16:32:36] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
-[16:34:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCoreMod
-[16:34:13] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
-[16:34:14] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
-[16:34:15] [Sound Library Loader/INFO]: Sound engine started
-[16:34:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCoreMod, Learn Gregtech Companion.zip
-[16:35:00] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
-[16:35:01] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
-[16:35:02] [Sound Library Loader/INFO]: Sound engine started
-[16:36:58] [Client thread/INFO]: Stopping!
+[16:47:08] [main/INFO]: Setting user: QubicRage
+[16:47:11] [Client thread/INFO]: LWJGL Version: 2.9.1
