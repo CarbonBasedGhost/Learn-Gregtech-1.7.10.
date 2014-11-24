@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 clouds:true
-resourcePacks:["Learn Gregtech Companion.zip"]
+resourcePacks:["Learn Gregtech Companion.zip","pgtat_v1_19.zip"]
 lastServer:
 lang:en_US
 chatVisibility:0
@@ -70,7 +70,7 @@ key_key.command:53
 key_key.screenshot:60
 key_key.togglePerspective:63
 key_key.smoothCamera:0
-key_key.sprint:29
+key_key.sprint:-100
 key_key.streamStartStop:64
 key_key.streamPauseUnpause:65
 key_key.streamCommercial:0
@@ -91,11 +91,11 @@ key_Mode Switch Key:50
 key_Side Inventory Key:46
 key_Hub Expand Key:45
 key_invtweaks.key.sort:19
-key_key.mw_open_gui:50
+key_key.mw_open_gui:181
 key_key.mw_new_marker:210
-key_key.mw_next_map_mode:49
-key_key.mw_next_marker_group:51
-key_key.mw_teleport:52
+key_key.mw_next_map_mode:74
+key_key.mw_next_marker_group:55
+key_key.mw_teleport:69
 key_key.mw_zoom_in:201
 key_key.mw_zoom_out:209
 key_key.mw_underground_mode:22
@@ -106,7 +106,7 @@ key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_railcraft.keybind.loco.faster:52
 key_railcraft.keybind.loco.slower:51
-key_railcraft.keybind.loco.mode:50
+key_railcraft.keybind.loco.mode:24
 key_railcraft.keybind.loco.whistle:49
 key_key.control:29
 soundCategory_master:1.0
