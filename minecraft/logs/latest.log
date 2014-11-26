@@ -1,34 +1,33 @@
-[23:47:53] [main/INFO]: Setting user: CarbonBasedGhost
-[23:47:54] [Client thread/INFO]: LWJGL Version: 2.9.1
-[23:47:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCoreMod, Learn Gregtech Companion.zip, pgtat_v1_19.zip
-[23:48:07] [Sound Library Loader/INFO]: Sound engine started
-[23:48:09] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
-[23:48:09] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
-[23:49:03] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCoreMod, Learn Gregtech Companion.zip, pgtat_v1_19.zip
-[23:49:03] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
-[23:49:05] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
-[23:49:06] [Sound Library Loader/INFO]: Sound engine started
-[23:49:17] [Client thread/INFO]: Deleting level TEST
-[23:49:17] [Client thread/INFO]: Attempt 1...
-[23:49:20] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[23:49:20] [Server thread/INFO]: Generating keypair
-[23:49:20] [Server thread/INFO]: Preparing start region for level 0
-[23:49:22] [Server thread/INFO]: Changing view distance to 12, from 10
-[23:49:22] [Server thread/INFO]: CarbonBasedGhost[local:E:d2473bd0] logged in with entity id 243 at (471.0703593933934, 65.0, -146.46154147510453)
-[23:49:22] [Server thread/INFO]: CarbonBasedGhost joined the game
-[23:49:26] [Client thread/INFO]: [CHAT] This server doesn't have Hardcore Questing Mode enabled.
-[23:49:27] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
-[23:49:32] [Server thread/INFO]: Saving and pausing game...
-[23:49:32] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
-[23:49:32] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
-[23:49:32] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
-[23:49:56] [Server thread/INFO]: Saving and pausing game...
-[23:49:56] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
-[23:49:56] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
-[23:49:56] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
-[23:49:57] [Server thread/INFO]: Stopping server
-[23:49:57] [Server thread/INFO]: Saving players
-[23:49:57] [Server thread/INFO]: Saving worlds
-[23:49:57] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
-[23:49:57] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
-[23:49:57] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[23:54:30] [main/INFO]: Setting user: CarbonBasedGhost
+[23:54:31] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:54:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCoreMod, Learn Gregtech Companion.zip, pgtat_v1_19.zip
+[23:54:45] [Sound Library Loader/INFO]: Sound engine started
+[23:54:47] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[23:54:48] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
+[23:55:40] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCoreMod, Learn Gregtech Companion.zip, pgtat_v1_19.zip
+[23:55:41] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[23:55:43] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[23:55:44] [Sound Library Loader/INFO]: Sound engine started
+[23:55:50] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:55:50] [Server thread/INFO]: Generating keypair
+[23:55:50] [Server thread/INFO]: Preparing start region for level 0
+[23:55:53] [Server thread/INFO]: Changing view distance to 12, from 10
+[23:55:53] [Server thread/INFO]: CarbonBasedGhost[local:E:b7f2f617] logged in with entity id 246 at (465.74761405028624, 68.99733625416442, -152.47289680244018)
+[23:55:53] [Server thread/INFO]: CarbonBasedGhost joined the game
+[23:55:56] [Client thread/INFO]: [CHAT] This server doesn't have Hardcore Questing Mode enabled.
+[23:55:57] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[23:56:10] [Server thread/INFO]: Saving and pausing game...
+[23:56:10] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[23:56:10] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[23:56:10] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[23:56:14] [Server thread/INFO]: Saving and pausing game...
+[23:56:14] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[23:56:14] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[23:56:14] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[23:56:15] [Server thread/INFO]: Stopping server
+[23:56:15] [Server thread/INFO]: Saving players
+[23:56:15] [Server thread/INFO]: Saving worlds
+[23:56:15] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[23:56:15] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[23:56:15] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[23:56:18] [Client thread/INFO]: Stopping!
