@@ -1,63 +1,251 @@
-[21:59:42] [main/INFO]: Setting user: QubicRage
-[21:59:44] [Client thread/INFO]: LWJGL Version: 2.9.1
-[21:59:57] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCoreMod, Learn Gregtech Companion.zip, pgtat_v1_19.zip
-[22:00:19] [Sound Library Loader/INFO]: Sound engine started
-[22:00:24] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
-[22:00:25] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
-[22:02:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCoreMod, Learn Gregtech Companion.zip, pgtat_v1_19.zip
-[22:02:16] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
-[22:02:17] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
-[22:02:18] [Sound Library Loader/INFO]: Sound engine started
-[22:04:24] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[22:04:24] [Server thread/INFO]: Generating keypair
-[22:04:25] [Server thread/INFO]: Preparing start region for level 0
-[22:04:27] [Server thread/INFO]: Preparing spawn area: 42%
-[22:04:30] [Server thread/INFO]: Changing view distance to 12, from 10
-[22:04:30] [Server thread/INFO]: QubicRage[local:E:0b0d2e5f] logged in with entity id 246 at (464.0501776202298, 64.88174981767904, -144.1934547117518)
-[22:04:30] [Server thread/INFO]: QubicRage joined the game
-[22:04:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2647ms behind, skipping 52 tick(s)
-[22:04:39] [Client thread/INFO]: [CHAT] This server doesn't have Hardcore Questing Mode enabled.
-[22:04:41] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
-[22:04:42] [Server thread/INFO]: Saving and pausing game...
-[22:04:42] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
-[22:04:43] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
-[22:04:43] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
-[22:04:57] [Server thread/INFO]: Saving and pausing game...
-[22:04:57] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
-[22:04:57] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
-[22:04:57] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
-[22:05:00] [Server thread/INFO]: Saving and pausing game...
-[22:05:00] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
-[22:05:00] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
-[22:05:00] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
-[22:05:08] [Server thread/INFO]: Saving and pausing game...
-[22:05:08] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
-[22:05:08] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
-[22:05:08] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
-[22:05:24] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCoreMod, Learn Gregtech Companion.zip, pgtat_v1_19.zip
-[22:05:24] [Server thread/INFO]: Changing view distance to 8, from 12
-[22:05:26] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
-[22:05:26] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
-[22:05:28] [Sound Library Loader/INFO]: Sound engine started
-[22:05:28] [Server thread/INFO]: Saving and pausing game...
-[22:05:28] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
-[22:05:28] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
-[22:05:28] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
-[22:06:38] [Server thread/INFO]: QubicRage has just earned the achievement [Taking Inventory]
-[22:06:38] [Client thread/INFO]: [CHAT] QubicRage has just earned the achievement [Taking Inventory]
-[22:16:32] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
-[22:16:38] [Client thread/INFO]: [CHAT] You do not have permission to use this command
-[22:18:57] [Server thread/INFO]: Saving and pausing game...
-[22:18:57] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
-[22:18:57] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
-[22:18:57] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
-[22:29:48] [Server thread/INFO]: Saving and pausing game...
-[22:29:48] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
-[22:29:48] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
-[22:29:48] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
-[22:29:49] [Server thread/INFO]: Stopping server
-[22:29:49] [Server thread/INFO]: Saving players
-[22:29:49] [Server thread/INFO]: Saving worlds
-[22:29:49] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
-[22:29:49] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
-[22:29:49] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[10:59:50] [main/INFO]: Setting user: QubicRage
+[10:59:52] [Client thread/INFO]: LWJGL Version: 2.9.1
+[11:00:04] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCoreMod, Learn Gregtech Companion.zip, pgtat_v1_19.zip
+[11:00:21] [Sound Library Loader/INFO]: Sound engine started
+[11:00:25] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[11:00:25] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
+[11:01:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCoreMod, Learn Gregtech Companion.zip, pgtat_v1_19.zip
+[11:01:54] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[11:01:55] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[11:01:56] [Sound Library Loader/INFO]: Sound engine started
+[11:02:26] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[11:02:26] [Server thread/INFO]: Generating keypair
+[11:02:27] [Server thread/INFO]: Preparing start region for level 0
+[11:02:28] [Server thread/INFO]: Preparing spawn area: 48%
+[11:02:30] [Client thread/INFO]: Realms library version == 1.3.5
+[11:02:31] [Server thread/INFO]: Changing view distance to 8, from 10
+[11:02:31] [Server thread/INFO]: QubicRage[local:E:659a0b9a] logged in with entity id 303 at (471.1269225480567, 65.0, -141.8754054564544)
+[11:02:31] [Server thread/INFO]: QubicRage joined the game
+[11:02:33] [Server thread/INFO]: Saving and pausing game...
+[11:02:33] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:02:33] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:02:33] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:02:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2206ms behind, skipping 44 tick(s)
+[11:02:36] [Client thread/INFO]: [CHAT] This server doesn't have Hardcore Questing Mode enabled.
+[11:02:37] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[11:02:49] [Client thread/INFO]: [CHAT] Rain turned off
+[11:02:50] [Client thread/INFO]: [CHAT] Day 3. 0:00
+[11:02:50] [Client thread/INFO]: [CHAT] Day 4. 12:00
+[11:02:50] [Client thread/INFO]: [CHAT] Day 5. 18:00
+[11:02:51] [Client thread/INFO]: [CHAT] Day 6. 6:00
+[11:03:02] [Client thread/INFO]: [CHAT] You are now playing creative+
+[11:03:25] [Server thread/INFO]: [QubicRage: Given [Empty Crate] * 1 to QubicRage]
+[11:03:25] [Client thread/INFO]: [CHAT] Given [Empty Crate] * 1 to QubicRage
+[11:03:58] [Server thread/INFO]: QubicRage has just earned the achievement [Getting Wood]
+[11:03:58] [Client thread/INFO]: [CHAT] QubicRage has just earned the achievement [Getting Wood]
+[11:04:57] [Server thread/INFO]: [QubicRage: Given [Redstone Lamp] * 64 to QubicRage]
+[11:04:57] [Client thread/INFO]: [CHAT] Given [Redstone Lamp] * 64 to QubicRage
+[11:07:22] [Server thread/INFO]: Saving and pausing game...
+[11:07:22] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:07:22] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:07:22] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:08:28] [Server thread/INFO]: Saving and pausing game...
+[11:08:28] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:08:28] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:08:28] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:14:45] [Server thread/INFO]: Saving and pausing game...
+[11:14:45] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:14:45] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:14:45] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:15:38] [Server thread/INFO]: Saving and pausing game...
+[11:15:38] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:15:38] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:15:38] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:16:47] [Server thread/INFO]: Saving and pausing game...
+[11:16:47] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:16:47] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:16:47] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:17:32] [Server thread/INFO]: Saving and pausing game...
+[11:17:32] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:17:32] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:17:32] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:17:52] [Server thread/INFO]: Saving and pausing game...
+[11:17:52] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:17:52] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:17:52] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:18:52] [Server thread/INFO]: Saving and pausing game...
+[11:18:52] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:18:52] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:18:52] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:19:08] [Server thread/INFO]: Saving and pausing game...
+[11:19:08] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:19:08] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:19:08] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:21:09] [Server thread/INFO]: [QubicRage: Given [Cracked Stone Brick Monster Egg] * 64 to QubicRage]
+[11:21:09] [Client thread/INFO]: [CHAT] Given [Cracked Stone Brick Monster Egg] * 64 to QubicRage
+[11:21:13] [Server thread/INFO]: [QubicRage: Given [Mossy Stone Bricks] * 64 to QubicRage]
+[11:21:13] [Client thread/INFO]: [CHAT] Given [Mossy Stone Bricks] * 64 to QubicRage
+[11:21:14] [Server thread/INFO]: [QubicRage: Given [Stone Brick Monster Egg] * 64 to QubicRage]
+[11:21:14] [Client thread/INFO]: [CHAT] Given [Stone Brick Monster Egg] * 64 to QubicRage
+[11:22:15] [Server thread/INFO]: Saving and pausing game...
+[11:22:15] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:22:15] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:22:15] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:22:19] [Server thread/INFO]: Saving and pausing game...
+[11:22:19] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:22:19] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:22:19] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:22:52] [Server thread/INFO]: Saving and pausing game...
+[11:22:52] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:22:52] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:22:52] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:22:56] [Server thread/INFO]: Saving and pausing game...
+[11:22:56] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:22:56] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:22:56] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:23:29] [Server thread/INFO]: Saving and pausing game...
+[11:23:29] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:23:29] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:23:29] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:27:48] [Server thread/INFO]: Saving and pausing game...
+[11:27:48] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:27:48] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:27:48] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:29:58] [Server thread/INFO]: [QubicRage: Given [Hay Bale] * 64 to QubicRage]
+[11:29:58] [Client thread/INFO]: [CHAT] Given [Hay Bale] * 64 to QubicRage
+[11:30:06] [Server thread/INFO]: Saving and pausing game...
+[11:30:06] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:30:06] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:30:06] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:30:54] [Server thread/INFO]: Saving and pausing game...
+[11:30:54] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:30:54] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:30:54] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:32:11] [Server thread/INFO]: Saving and pausing game...
+[11:32:11] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:32:11] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:32:12] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:37:44] [Server thread/INFO]: Saving and pausing game...
+[11:37:44] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:37:44] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:37:44] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:54:00] [Server thread/INFO]: Saving and pausing game...
+[11:54:00] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:54:00] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:54:00] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:54:04] [Server thread/INFO]: Saving and pausing game...
+[11:54:04] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:54:04] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:54:04] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:54:21] [Server thread/INFO]: Saving and pausing game...
+[11:54:21] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:54:21] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:54:21] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:54:28] [Server thread/INFO]: Saving and pausing game...
+[11:54:28] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:54:28] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:54:28] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:55:12] [Server thread/INFO]: Saving and pausing game...
+[11:55:13] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:55:13] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:55:13] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[11:58:33] [Server thread/INFO]: Saving and pausing game...
+[11:58:33] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[11:58:33] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[11:58:33] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[12:00:40] [Server thread/INFO]: Saving and pausing game...
+[12:00:40] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[12:00:40] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[12:00:40] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[12:02:00] [Server thread/INFO]: Saving and pausing game...
+[12:02:00] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[12:02:00] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[12:02:00] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[12:04:08] [Server thread/INFO]: [QubicRage: Given [Crafting Table] * 64 to QubicRage]
+[12:04:08] [Client thread/INFO]: [CHAT] Given [Crafting Table] * 64 to QubicRage
+[12:04:20] [Server thread/INFO]: [QubicRage: Given [Furnace] * 1 to QubicRage]
+[12:04:20] [Client thread/INFO]: [CHAT] Given [Furnace] * 1 to QubicRage
+[12:05:34] [Server thread/INFO]: [QubicRage: Given [Crafting Table] * 1 to QubicRage]
+[12:05:34] [Client thread/INFO]: [CHAT] Given [Crafting Table] * 1 to QubicRage
+[12:05:50] [Server thread/INFO]: [QubicRage: Given [Bed] * 1 to QubicRage]
+[12:05:50] [Client thread/INFO]: [CHAT] Given [Bed] * 1 to QubicRage
+[12:06:23] [Server thread/INFO]: Saving and pausing game...
+[12:06:23] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[12:06:23] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[12:06:23] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[12:08:32] [Server thread/INFO]: [QubicRage: Given [Fence Gate] * 1 to QubicRage]
+[12:08:32] [Client thread/INFO]: [CHAT] Given [Fence Gate] * 1 to QubicRage
+[12:08:36] [Server thread/INFO]: [QubicRage: Given [Quest Gate System] * 1 to QubicRage]
+[12:08:36] [Client thread/INFO]: [CHAT] Given [Quest Gate System] * 1 to QubicRage
+[12:08:37] [Server thread/INFO]: [QubicRage: Given [Fence Gate] * 1 to QubicRage]
+[12:08:37] [Client thread/INFO]: [CHAT] Given [Fence Gate] * 1 to QubicRage
+[12:10:53] [Server thread/INFO]: [QubicRage: Given [Spawn Cow] * 1 to QubicRage]
+[12:10:53] [Client thread/INFO]: [CHAT] Given [Spawn Cow] * 1 to QubicRage
+[12:10:54] [Server thread/INFO]: [QubicRage: Given [Spawn Chicken] * 1 to QubicRage]
+[12:10:54] [Client thread/INFO]: [CHAT] Given [Spawn Chicken] * 1 to QubicRage
+[12:11:03] [Server thread/INFO]: [QubicRage: Given [Spawn Horse] * 1 to QubicRage]
+[12:11:03] [Client thread/INFO]: [CHAT] Given [Spawn Horse] * 1 to QubicRage
+[12:11:18] [Server thread/INFO]: [QubicRage: Given [Spawn Sheep] * 64 to QubicRage]
+[12:11:18] [Client thread/INFO]: [CHAT] Given [Spawn Sheep] * 64 to QubicRage
+[12:11:32] [Server thread/INFO]: [QubicRage: Given [Spawn Pig] * 64 to QubicRage]
+[12:11:32] [Client thread/INFO]: [CHAT] Given [Spawn Pig] * 64 to QubicRage
+[12:11:41] [Server thread/INFO]: Saving and pausing game...
+[12:11:41] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[12:11:41] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[12:11:41] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[12:15:11] [Server thread/INFO]: [QubicRage: Given [Item Frame] * 1 to QubicRage]
+[12:15:11] [Client thread/INFO]: [CHAT] Given [Item Frame] * 1 to QubicRage
+[12:15:25] [Server thread/INFO]: [QubicRage: Given [Coal] * 64 to QubicRage]
+[12:15:25] [Client thread/INFO]: [CHAT] Given [Coal] * 64 to QubicRage
+[12:16:14] [Server thread/INFO]: [QubicRage: Given [Seeds] * 64 to QubicRage]
+[12:16:14] [Client thread/INFO]: [CHAT] Given [Seeds] * 64 to QubicRage
+[12:16:14] [Server thread/INFO]: [QubicRage: Given [Pumpkin Seeds] * 64 to QubicRage]
+[12:16:14] [Client thread/INFO]: [CHAT] Given [Pumpkin Seeds] * 64 to QubicRage
+[12:16:15] [Server thread/INFO]: [QubicRage: Given [Melon Seeds] * 64 to QubicRage]
+[12:16:15] [Client thread/INFO]: [CHAT] Given [Melon Seeds] * 64 to QubicRage
+[12:16:24] [Server thread/INFO]: [QubicRage: Given [Sugar Canes] * 64 to QubicRage]
+[12:16:24] [Client thread/INFO]: [CHAT] Given [Sugar Canes] * 64 to QubicRage
+[12:16:30] [Server thread/INFO]: [QubicRage: Given [Carrot] * 64 to QubicRage]
+[12:16:30] [Client thread/INFO]: [CHAT] Given [Carrot] * 64 to QubicRage
+[12:16:33] [Server thread/INFO]: [QubicRage: Given [Potato] * 64 to QubicRage]
+[12:16:33] [Client thread/INFO]: [CHAT] Given [Potato] * 64 to QubicRage
+[12:17:23] [Server thread/INFO]: Saving and pausing game...
+[12:17:23] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[12:17:23] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[12:17:23] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[12:17:41] [Server thread/INFO]: [QubicRage: Given [Brewing Stand] * 1 to QubicRage]
+[12:17:41] [Client thread/INFO]: [CHAT] Given [Brewing Stand] * 1 to QubicRage
+[12:17:57] [Server thread/INFO]: [QubicRage: Given [Obsidian] * 64 to QubicRage]
+[12:17:57] [Client thread/INFO]: [CHAT] Given [Obsidian] * 64 to QubicRage
+[12:18:34] [Server thread/INFO]: [QubicRage: Given [Lava Bucket] * 1 to QubicRage]
+[12:18:34] [Client thread/INFO]: [CHAT] Given [Lava Bucket] * 1 to QubicRage
+[12:18:34] [Server thread/INFO]: [QubicRage: Given [Lava Bucket] * 1 to QubicRage]
+[12:18:34] [Client thread/INFO]: [CHAT] Given [Lava Bucket] * 1 to QubicRage
+[12:18:35] [Server thread/INFO]: [QubicRage: Given [Lava Bucket] * 1 to QubicRage]
+[12:18:35] [Client thread/INFO]: [CHAT] Given [Lava Bucket] * 1 to QubicRage
+[12:19:16] [Server thread/INFO]: [QubicRage: Given [Wooden Pickaxe] * 1 to QubicRage]
+[12:19:16] [Client thread/INFO]: [CHAT] Given [Wooden Pickaxe] * 1 to QubicRage
+[12:19:18] [Server thread/INFO]: [QubicRage: Given [Stone Hoe] * 1 to QubicRage]
+[12:19:18] [Client thread/INFO]: [CHAT] Given [Stone Hoe] * 1 to QubicRage
+[12:19:49] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
+[12:19:53] [Client thread/INFO]: [CHAT] You do not have permission to use this command
+[12:19:54] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
+[12:19:55] [Server thread/INFO]: Saving and pausing game...
+[12:19:55] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[12:19:55] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[12:19:55] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[12:20:32] [Client thread/INFO]: [CHAT] You do not have permission to use this command
+[12:20:34] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[12:20:35] [Server thread/INFO]: Saving and pausing game...
+[12:20:35] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[12:20:35] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[12:20:35] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[12:20:35] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
+[12:20:47] [Server thread/INFO]: [QubicRage: Given [Quest Delivery System] * 1 to QubicRage]
+[12:20:47] [Client thread/INFO]: [CHAT] Given [Quest Delivery System] * 1 to QubicRage
+[12:20:49] [Server thread/INFO]: [QubicRage: Given [Quest Book] * 1 to QubicRage]
+[12:20:49] [Client thread/INFO]: [CHAT] Given [Quest Book] * 1 to QubicRage
+[12:20:52] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
+[12:20:53] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
+[12:20:53] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
+[12:21:21] [Server thread/INFO]: Saving and pausing game...
+[12:21:21] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[12:21:21] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[12:21:21] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[12:21:23] [Server thread/INFO]: Stopping server
+[12:21:23] [Server thread/INFO]: Saving players
+[12:21:23] [Server thread/INFO]: Saving worlds
+[12:21:23] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[12:21:23] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[12:21:23] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[12:21:25] [Client thread/INFO]: Stopping!
