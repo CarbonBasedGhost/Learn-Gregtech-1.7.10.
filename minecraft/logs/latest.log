@@ -1,45 +1,37 @@
-[14:53:23] [main/INFO]: Setting user: QubicRage
-[14:53:24] [Client thread/INFO]: LWJGL Version: 2.9.1
-[14:53:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCoreMod, Learn Gregtech Companion.zip, pgtat_v1_19.zip
-[14:53:54] [Sound Library Loader/INFO]: Sound engine started
-[14:53:55] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
-[14:53:56] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
-[14:55:23] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCoreMod, Learn Gregtech Companion.zip, pgtat_v1_19.zip
-[14:55:25] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
-[14:55:26] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
-[14:55:26] [Sound Library Loader/INFO]: Sound engine started
-[14:56:58] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[14:56:58] [Server thread/INFO]: Generating keypair
-[14:56:59] [Server thread/INFO]: Preparing start region for level 0
-[14:57:00] [Server thread/INFO]: Preparing spawn area: 60%
-[14:57:03] [Server thread/INFO]: Changing view distance to 8, from 10
-[14:57:03] [Server thread/INFO]: QubicRage[local:E:409c3186] logged in with entity id 267 at (458.5502654739998, 64.0, -161.38271725823566)
-[14:57:03] [Server thread/INFO]: QubicRage joined the game
-[14:57:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2732ms behind, skipping 54 tick(s)
-[14:57:09] [Client thread/INFO]: [CHAT] This server doesn't have Hardcore Questing Mode enabled.
-[14:57:10] [Server thread/INFO]: Saving and pausing game...
-[14:57:10] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
-[14:57:11] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
-[14:57:11] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
-[14:57:11] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
-[14:57:46] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
-[14:57:49] [Client thread/INFO]: [CHAT] You do not have permission to use this command
-[14:57:52] [Server thread/INFO]: Saving and pausing game...
-[14:57:52] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
-[14:57:52] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
-[14:57:52] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
-[14:58:37] [Server thread/INFO]: Saving and pausing game...
-[14:58:37] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
-[14:58:37] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
-[14:58:37] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
-[14:58:49] [Client thread/INFO]: Started on 56820
-[14:58:49] [Client thread/INFO]: [CHAT] Local game hosted on port 56820
-[14:58:50] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
-[14:58:53] [Client thread/INFO]: [CHAT] Questing mode has been activated. Enjoy!
-[15:10:50] [Client thread/INFO]: Stopping!
-[15:10:51] [Server thread/INFO]: Stopping server
-[15:10:51] [Server thread/INFO]: Saving players
-[15:10:51] [Server thread/INFO]: Saving worlds
-[15:10:51] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
-[15:10:51] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
-[15:10:51] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[14:00:08] [main/INFO]: Setting user: QubicRage
+[14:00:10] [Client thread/INFO]: LWJGL Version: 2.9.1
+[14:00:21] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCoreMod, Learn Gregtech Companion.zip, pgtat_v1_19.zip
+[14:00:36] [Sound Library Loader/INFO]: Sound engine started
+[14:00:40] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[14:00:41] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
+[14:02:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCoreMod, Learn Gregtech Companion.zip, pgtat_v1_19.zip
+[14:02:12] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[14:02:13] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[14:02:14] [Sound Library Loader/INFO]: Sound engine started
+[14:05:29] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[14:05:29] [Server thread/INFO]: Generating keypair
+[14:05:31] [Server thread/INFO]: Preparing start region for level 0
+[14:05:32] [Server thread/INFO]: Preparing spawn area: 61%
+[14:05:34] [Server thread/INFO]: Changing view distance to 8, from 10
+[14:05:34] [Server thread/INFO]: QubicRage[local:E:5b9c5be2] logged in with entity id 267 at (472.6696990827567, 65.0, -144.9945481065508)
+[14:05:34] [Server thread/INFO]: QubicRage joined the game
+[14:05:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2104ms behind, skipping 42 tick(s)
+[14:05:40] [Client thread/INFO]: [CHAT] This server doesn't have Hardcore Questing Mode enabled.
+[14:05:41] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[14:05:43] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
+[14:05:44] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
+[14:05:45] [Server thread/INFO]: Saving and pausing game...
+[14:05:45] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[14:05:45] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[14:05:45] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[14:05:49] [Client thread/INFO]: Started on 60893
+[14:05:49] [Client thread/INFO]: [CHAT] Local game hosted on port 60893
+[14:05:50] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
+[14:05:54] [Client thread/INFO]: [CHAT] Questing mode has been activated. Enjoy!
+[14:14:05] [Server thread/INFO]: Stopping server
+[14:14:05] [Server thread/INFO]: Saving players
+[14:14:05] [Server thread/INFO]: Saving worlds
+[14:14:05] [Server thread/INFO]: Saving chunks for level 'Survival World'/Overworld
+[14:14:05] [Server thread/INFO]: Saving chunks for level 'Survival World'/Nether
+[14:14:05] [Server thread/INFO]: Saving chunks for level 'Survival World'/The End
+[14:14:08] [Client thread/INFO]: Stopping!
